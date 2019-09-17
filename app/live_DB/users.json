@@ -1,0 +1,20 @@
+{
+  "body": [
+    {
+      "name": "Isabella De Rossi",
+      "img": "assetcs/images/bg01.jpg"
+    },
+    {
+      "name": "Francesca Bianchi",
+      "img": "assetcs/images/bg01.jpg"
+    },
+    {
+      "name": "Livia Castelli",
+      "img": "assetcs/images/bg01.jpg"
+    },
+    {
+      "name": "Elena Borghi",
+      "img": "assetcs/images/bg01.jpg"
+    }
+  ]
+}
